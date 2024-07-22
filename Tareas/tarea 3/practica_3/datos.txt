@@ -1,0 +1,49 @@
+
+Segmento: test
+Manzana: test
+Num predio: test
+Total viviendas: test
+Num vivienda: test
+Ciudad comunidad: test
+Calle: test
+Num puerta: test
+Planta piso: test
+Nombre edificio: test
+Bloque: test
+Tipo vivienda: Casa
+Estado vivienda: Con personas presentes
+Material paredes: ladrillo
+Revoque: si
+Material techo: calamina
+Material pisos: tierra
+Agua proviene: red
+Agua distribuye: dentro_vivienda
+Energia: publico
+Combustible cocina: gas_garrafa
+Basura: contenedor_publico
+Cuarto cocina: 
+Cuartos ocupan: 1
+Cuartos dormir: 0
+Bano: 
+Desague: red_alcantarillado
+Vivienda ocupan: propia_pagada
+Bicicleta: 
+Motocicleta: 
+Vehiculo: 
+Carreta: 
+Deslizador: 
+Refrigerador: 
+Microondas: 
+Calefon: 
+Aire acondicionado: 
+Lavadora: 
+Radio: 
+Televisor: 
+Computadora: 
+Celular: 
+Telefono fijo: 
+Internet movil: 
+Internet fijo: 
+Tv cable: 
+Telefonia fija: 
+Comentarios adicionales: 

@@ -1,0 +1,48 @@
+Segmento: test
+Manzana: test
+Num predio: test
+Total viviendas: test
+Num vivienda: test
+Ciudad comunidad: test
+Calle: test
+Num puerta: test
+Planta piso: test
+Nombre edificio: test
+Bloque: test
+Tipo vivienda: Cuartel o establecimiento militar o policial
+Estado vivienda: Terminándose de construir o reparar
+Material paredes: piedra
+Revoque: si
+Material techo: palma
+Material pisos: ceramica
+Agua proviene: manantial
+Agua distribuye: dentro_vivienda
+Energia: panel_solar
+Combustible cocina: gas_garrafa
+Basura: contenedor_publico
+Cuarto cocina: si
+Cuartos ocupan: 3
+Cuartos dormir: 0
+Bano: compartido
+Desague: superficie
+Vivienda ocupan: prestada
+Bicicleta: si
+Motocicleta: si
+Vehiculo: si
+Carreta: si
+Deslizador: si
+Refrigerador: si
+Microondas: si
+Calefon: si
+Aire acondicionado: si
+Lavadora: si
+Radio: estado_vivienda
+Televisor: si
+Computadora: si
+Celular: si
+Telefono fijo: si
+Internet movil: si
+Internet fijo: si
+Tv cable: si
+Telefonia fija: si
+Comentarios adicionales: test aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

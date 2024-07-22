@@ -1,0 +1,23 @@
+<?php
+$carpeta="prueba/";
+$archivo="ejercicio1.php";
+echo (file_exists($archivo))?"Archivo Existente":"Archivo no Existe";
+echo "<br>";
+echo(is_file($archivo))?"Archivo existente":"Archivo no existe";
+echo "<br>";
+echo(is_dir($carpeta))?"Carpeta existente":"Carpeta no existe";
+echo "<br>";
+//
+$archivo2="vec.jpg";
+if (file_exists($carpeta.$archivo2)) {
+    $size=filesize($carpeta.$archivo2);
+    $creado=filectime($carpeta.$archivo2);
+    $modificado=filemtime($carpeta.$archivo2);
+    echo "Tamaño".$size."<br>";
+    echo "Creado".$creado."<br>";
+    echo "Modificado".$modificado."<br>";
+}
+else {
+    echo "Archivo no existe";
+}
+?>
